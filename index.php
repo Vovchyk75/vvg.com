@@ -14,6 +14,6 @@ $mail->addAddress('volodymyr.galas@gmail.com');
 </head>
 <body>
 <h1>vvg.com</h1>
-<p>The second commit into GitHub</p>
+<p>The second commit into GitHub 2</p>
 </body>
 </html>
